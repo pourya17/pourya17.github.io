@@ -19,3 +19,5 @@ My GitHub page is http://github.com/pourya17.
 * Lab 4
 
     Lab 4 was a favorite because that was when we started using if statements. In part 2, we used if statements for our Hilo game. The statements were executed if player two’s guesses were too high, too low, or correct. Lab 4 was when we started to dive deeper into computer programming, and I really enjoyed it.
+
+I love computer science.
